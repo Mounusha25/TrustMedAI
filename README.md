@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Mounusha25/TrustMedAI/actions/workflows/ci.yml"><img src="https://github.com/Mounusha25/TrustMedAI/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <img src="https://img.shields.io/badge/Frontend-Next.js%20%2B%20React-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js and React" />
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/RAG-ChromaDB%20%2B%20FAISS-5B5BD6?style=for-the-badge" alt="ChromaDB and FAISS" />
